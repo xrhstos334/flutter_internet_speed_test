@@ -16,7 +16,7 @@ dependencies:
   tuple_dart: ^1.4.2
   connectivity_plus: ^6.0.3
   http: ^1.2.1
-  logger: ^1.1.0
+  logger: ^2.3.0
 
 dev_dependencies:
   flutter_test:
